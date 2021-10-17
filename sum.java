@@ -6,5 +6,6 @@ public class sum{
         int b=7;
         System.out.println("Collaborator name---Saurabh Tripathi");
         System.out.println("summation ="+ (a+b));
+         System.out.println("Owner name--- Tanisha Bhadani");
     }
 }
