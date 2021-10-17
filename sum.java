@@ -4,7 +4,7 @@ public class sum{
     {
         int a=5;
         int b=7;
-        System.out.println("Collasborator name---Saurabh Tripathi");
+        System.out.println("Collaborator name---Saurabh Tripathi");
         System.out.println("summation ="+ (a+b));
     }
 }
